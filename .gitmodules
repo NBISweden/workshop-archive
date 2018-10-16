@@ -1,3 +1,7 @@
 [submodule "workshop-common"]
 	path = workshop-common
 	url = https://github.com/NBISweden/workshop-common.git
+[submodule "workshop-howto/old-version"]
+	path = workshop-howto/old-version
+	url = https://github.com/NBISweden/workshop-howto.git
+	branch = old-version
