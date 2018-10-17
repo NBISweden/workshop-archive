@@ -1,10 +1,6 @@
 [submodule "workshop-common"]
 	path = workshop-common
 	url = https://github.com/NBISweden/workshop-common.git
-[submodule "workshop-howto/old-version"]
-	path = workshop-howto/old-version
-	url = https://github.com/NBISweden/workshop-howto.git
-	branch = old-version
 [submodule "workshop-genome_assembly/2016-11-14"]
 	path = workshop-genome_assembly/2016-11-14
 	url = https://github.com/NBISweden/workshop-genome_assembly.git
