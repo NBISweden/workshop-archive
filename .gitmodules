@@ -5,3 +5,11 @@
 	path = workshop-howto/old-version
 	url = https://github.com/NBISweden/workshop-howto.git
 	branch = old-version
+[submodule "workshop-genome_assembly/2016-11-14"]
+	path = workshop-genome_assembly/2016-11-14
+	url = https://github.com/NBISweden/workshop-genome_assembly.git
+	branch = archive/2016-11-14
+[submodule "workshop-genome_assembly/2017-11-15"]
+	path = workshop-genome_assembly/2017-11-15
+	url = https://github.com/NBISweden/workshop-genome_assembly.git
+	branch = archive/2017-11-15
