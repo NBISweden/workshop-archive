@@ -9,3 +9,7 @@
 	path = workshop-genome_assembly/2017-11-15
 	url = https://github.com/NBISweden/workshop-genome_assembly.git
 	branch = archive/2017-11-15
+[submodule "workshop-scRNAseq/2018-05-21"]
+	path = workshop-scRNAseq/2018-05-21
+	url = https://github.com/NBISweden/workshop-scRNAseq.git
+	branch = may2018
