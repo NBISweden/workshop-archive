@@ -13,3 +13,7 @@
 	path = workshop-scRNAseq/2018-05-21
 	url = https://github.com/NBISweden/workshop-scRNAseq.git
 	branch = may2018
+[submodule "workshop-ChIP-seq/2018-11-07"]
+	path = workshop-ChIP-seq/2018-11-07
+	url = https://github.com/NBISweden/workshop-ChIP-seq.git
+	branch = archive/2018-11-07

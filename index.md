@@ -15,6 +15,10 @@ title: Workshop Archive
 
 * [2018-05-21](workshop-scRNAseq/2018-05-21)
 
+## ChIP-seq
+
+* [2018-11-07](workshop-ChIP-seq/2018-11-07)
+
 ## Genome Annotation
 
 * Coming soon
