@@ -14,6 +14,7 @@ title: Workshop Archive
 ## Single cell RNA sequencing analysis
 
 * [2018-05-21](workshop-scRNAseq/2018-05-21)
+* [2019-02-04](workshop-scRNAseq/2019-02-04)
 
 ## ChIP-seq
 
