@@ -1,23 +1,23 @@
 [submodule "workshop-common"]
 	path = workshop-common
-	url = https://github.com/NBISweden/workshop-common.git
+	url = ../workshop-common.git
 [submodule "workshop-genome_assembly/2016-11-14"]
 	path = workshop-genome_assembly/2016-11-14
-	url = https://github.com/NBISweden/workshop-genome_assembly.git
+	url = ../workshop-genome_assembly.git
 	branch = archive/2016-11-14
 [submodule "workshop-genome_assembly/2017-11-15"]
 	path = workshop-genome_assembly/2017-11-15
-	url = https://github.com/NBISweden/workshop-genome_assembly.git
+	url = ../workshop-genome_assembly.git
 	branch = archive/2017-11-15
 [submodule "workshop-scRNAseq/2018-05-21"]
 	path = workshop-scRNAseq/2018-05-21
-	url = https://github.com/NBISweden/workshop-scRNAseq.git
+	url = ../workshop-scRNAseq.git
 	branch = may2018
 [submodule "workshop-ChIP-seq/2018-11-07"]
 	path = workshop-ChIP-seq/2018-11-07
-	url = https://github.com/NBISweden/workshop-ChIP-seq.git
+	url = ../workshop-ChIP-seq.git
 	branch = archive/2018-11-07
 [submodule "workshop-scRNAseq/2019-02-04"]
 	path = workshop-scRNAseq/2019-02-04
-	url = https://github.com/NBISweden/workshop-scrnaseq.git
+	url = ../workshop-scrnaseq.git
 	branch = feb2019
