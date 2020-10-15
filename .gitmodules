@@ -21,3 +21,7 @@
 	path = workshop-scRNAseq/2019-02-04
 	url = ../workshop-scrnaseq.git
 	branch = feb2019
+[submodule "workshop-scRNAseq/2020-01-27"]
+	path = workshop-scRNAseq/2020-01-27
+	url = https://github.com/NBISweden/workshop-scrnaseq.git
+	branch = jan2020
