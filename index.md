@@ -24,3 +24,8 @@ title: Workshop Archive
 ## Genome Annotation
 
 * Coming soon
+
+## Snakemake bring-your-own-code
+
+* [2020-10-07](workshop-snakemake-byoc/2020-10-07)
+
