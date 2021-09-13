@@ -9,6 +9,14 @@
 	path = workshop-genome_assembly/2017-11-15
 	url = ../workshop-genome_assembly.git
 	branch = archive/2017-11-15
+[submodule "workshop-genome_annotation/2019-05-15"]
+	path = workshop-genome_annotation/2019-05-15
+	url = https://github.com/NBISweden/workshop-genome_annotation.git
+	branch = archive/2019-05-15
+[submodule "workshop-genome_annotation_elixir/2019-07-01"]
+	path = workshop-genome_annotation_elixir/2019-07-01
+	url = https://github.com/NBISweden/genome_annotation_elixir.git
+	branch = archive/2019-07-01
 [submodule "workshop-scRNAseq/2018-05-21"]
 	path = workshop-scRNAseq/2018-05-21
 	url = ../workshop-scRNAseq.git

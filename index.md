@@ -23,4 +23,5 @@ title: Workshop Archive
 
 ## Genome Annotation
 
-* Coming soon
+* [2019-05-15 NBIS](workshop-genome_annotation/2019-05-15)
+* [2019-07-01 Elixir](workshop-genome_annotation_elixir/2019-07-01)
