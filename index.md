@@ -25,3 +25,7 @@ title: Workshop Archive
 
 * [2019-05-15 NBIS](workshop-genome_annotation/2019-05-15)
 * [2019-07-01 Elixir](workshop-genome_annotation_elixir/2019-07-01)
+
+## Snakemake bring-your-own-code
+
+* [2020-10-07](workshop-snakemake-byoc/2020-10-07)

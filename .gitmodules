@@ -33,3 +33,7 @@
 	path = workshop-scRNAseq/2020-01-27
 	url = https://github.com/NBISweden/workshop-scrnaseq.git
 	branch = jan2020
+[submodule "workshop-snakemake-byoc/2020-10-07"]
+	path = workshop-snakemake-byoc/2020-10-07
+	url = https://github.com/NBISweden/workshop-snakemake-byoc.git
+	branch = archive/2020-10-07
