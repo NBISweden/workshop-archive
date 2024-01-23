@@ -16,6 +16,7 @@ title: Workshop Archive
 * [2018-05-21](workshop-scRNAseq/2018-05-21)
 * [2019-02-04](workshop-scRNAseq/2019-02-04)
 * [2020-01-27](workshop-scRNAseq/2020-01-27)
+* [2023-01-30](workshop-scRNAseq/2023-01-30)
 
 ## ChIP-seq
 
